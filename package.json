@@ -36,7 +36,7 @@
     "babel-loader": "~7.1.2",
     "babel-plugin-add-module-exports": "~0.2.1",
     "babel-preset-env": "~1.6.0",
-    "eslint": "~4.7.1",
+    "eslint": "~7.0.0",
     "eslint-loader": "~1.9.0",
     "jasmine-core": "~2.8.0",
     "karma": "~1.7.1",
@@ -44,8 +44,8 @@
     "karma-jasmine": "~1.1.0",
     "karma-phantomjs-launcher": "~1.0.4",
     "phantomjs-prebuilt": "~2.1.15",
-    "webpack": "~3.6.0",
-    "yargs": "~9.0.1"
+    "webpack": "~4.0.0",
+    "yargs": "~15.0.1"
   },
   "dependencies": {
     "gr-event-dispatcher": "~1.1.1"
