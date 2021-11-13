@@ -44,7 +44,7 @@
     "karma-jasmine": "~1.1.0",
     "karma-phantomjs-launcher": "~1.0.4",
     "phantomjs-prebuilt": "~2.1.15",
-    "webpack": "~3.6.0",
+    "webpack": "~4.26.0",
     "yargs": "~9.0.1"
   },
   "dependencies": {
